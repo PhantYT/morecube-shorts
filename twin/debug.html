@@ -1,0 +1,9 @@
+<!doctype html>
+<html><head><meta charset="UTF-8" />
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>html,body{margin:0;background:#111} #world-canvas{height:96vh;width:auto;aspect-ratio:1080/1920;display:block;margin:0 auto}</style></head>
+<body>
+<canvas id="world-canvas"></canvas>
+<script>window.__world = { clock: { t: 0 }, render: null, ready: () => { window.__ready = true; } };</script>
+<script type="module" src="assets/js/main.js"></script>
+</body></html>

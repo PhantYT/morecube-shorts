@@ -1,0 +1,31 @@
+{
+"w": 1024,
+"h": 32,
+"cell": 32,
+"cols": 32,
+"tiles": {
+"block/stone": 0,
+"block/dirt": 1,
+"block/grass_block_top": 2,
+"block/grass_block_side": 3,
+"block/grass_block_side_overlay": 4,
+"block/gravel": 5,
+"block/cobblestone": 6,
+"block/mossy_cobblestone": 7,
+"block/oak_planks": 8,
+"block/cobweb": 9,
+"block/magenta_wool": 10,
+"block/lime_wool": 11,
+"block/orange_wool": 12,
+"block/light_blue_wool": 13,
+"block/glass": 14,
+"block/lantern": 15,
+"block/dead_bush": 16,
+"block/amethyst_block": 17,
+"block/blackstone_top": 18,
+"block/blackstone": 19,
+"block/polished_blackstone": 20,
+"block/water_still": 21,
+"block/lava_still": 22
+}
+}

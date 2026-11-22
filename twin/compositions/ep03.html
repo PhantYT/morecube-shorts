@@ -1,0 +1,24 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; background: #000; }
+    #world-canvas { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; display: block; }
+  </style>
+  <div id="root" data-composition-id="ep03" data-start="0" data-duration="30.59" data-width="1080" data-height="1920">
+    <canvas id="world-canvas" class="clip" data-start="0" data-duration="30.59" data-track-index="1"></canvas>
+  </div>
+  <script>
+    (function () {
+      var clock = { t: 0 };
+      var host = { clock: clock, render: null };
+      window.__world = host;
+      window.__hf = window.__hf || {};
+      window.__hf.buildReady = window.__hf.buildReady || {};
+      window.__hf.buildReady["ep03"] = new Promise(function (resolve) { host.ready = resolve; });
+      var tl = gsap.timeline({ paused: true });
+      tl.to(clock, { t: 30.59, duration: 30.59, ease: "none", onUpdate: function () { if (host.render) host.render(clock.t); } });
+      window.__timelines = window.__timelines || {};
+      window.__timelines["ep03"] = tl;
+    })();
+  </script>
+  <script type="module" src="assets/js/ep03.js"></script>
+</template>

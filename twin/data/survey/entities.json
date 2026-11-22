@@ -1,0 +1,1234 @@
+[
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.61,
+66.29,
+-14.32
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.61,
+65.69,
+-14.32
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"13,561,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.61,
+65.39,
+-14.32
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.56,
+66.29,
+-14.3
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.56,
+65.69,
+-14.3
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"13,492,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.56,
+65.39,
+-14.3
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.4,
+66.29,
+-14.35
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.4,
+65.69,
+-14.35
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"14,026,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.4,
+65.39,
+-14.35
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+122.54,
+72.85,
+-12.74
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"СТАВКИ ДО 10,000\",\"bold\":true,\"color\":\"gold\"}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.51,
+66.29,
+-9.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.51,
+65.69,
+-9.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"12,709,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.51,
+65.39,
+-9.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.41,
+66.29,
+-5.65
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.41,
+65.69,
+-5.65
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"12,730,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.41,
+65.39,
+-5.65
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.59,
+65.69,
+15.61
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"13,495,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.59,
+65.39,
+15.61
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.62,
+66.29,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.62,
+65.69,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"14,305,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+119.62,
+65.39,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.58,
+66.29,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.58,
+65.69,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"13,426,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+123.58,
+65.39,
+15.54
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+120.39,
+72.85,
+13.65
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"СТАВКИ ДО 1,000,000\",\"bold\":true,\"color\":\"gold\"}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+127.59,
+66.29,
+15.61
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.61,
+65.39,
+6.43
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.62,
+66.29,
+10.48
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.62,
+65.69,
+10.48
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"15,679,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.62,
+65.39,
+10.48
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Ставка: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"3,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.61,
+66.29,
+6.43
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Три в ряд\",\"bold\":true,\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:armor_stand",
+"pos": [
+132.61,
+65.69,
+6.43
+],
+"item": null,
+"block": null,
+"text": null,
+"tags": null,
+"invisible": 1,
+"custom": "{\"text\":\"\",\"extra\":[{\"text\":\"Текущий джекпот: \",\"bold\":true,\"color\":\"#55FFFF\"},{\"text\":\"15,679,000\",\"color\":\"#FFAA00\"}]}"
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.4
+],
+"item": "minecraft:ender_pearl",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+104.11,
+77.94,
+101.48
+],
+"item": "minecraft:diamond_pickaxe",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.27,
+77.94,
+102.11
+],
+"item": "minecraft:diamond_shovel",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+102.67
+],
+"item": "minecraft:bow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.68,
+78.0,
+103.88
+],
+"item": "minecraft:obsidian",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.4
+],
+"item": "minecraft:end_crystal",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.73,
+78.0,
+103.31
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+78.0,
+103.88
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.47
+],
+"item": "minecraft:cooked_beef",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.54,
+78.0,
+103.88
+],
+"item": "minecraft:purple_shulker_box",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.71
+],
+"item": "minecraft:purple_wool",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.27,
+77.94,
+102.58
+],
+"item": "minecraft:purple_stained_glass",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.39,
+77.94,
+102.67
+],
+"item": "minecraft:birch_log",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.88
+],
+"item": "minecraft:oak_log",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.09,
+77.94,
+101.47
+],
+"item": "minecraft:spectral_arrow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+104.15,
+77.94,
+101.09
+],
+"item": "minecraft:experience_bottle",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.53,
+78.0,
+103.27
+],
+"item": "minecraft:experience_bottle",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+77.94,
+102.6
+],
+"item": "minecraft:experience_bottle",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+78.0,
+103.88
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.9,
+77.94,
+101.97
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.68,
+77.94,
+101.92
+],
+"item": "minecraft:ender_pearl",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+77.94,
+102.76
+],
+"item": "minecraft:chorus_fruit",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.29,
+77.94,
+101.95
+],
+"item": "minecraft:ender_pearl",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.56,
+77.94,
+101.97
+],
+"item": "minecraft:netherite_boots",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+102.73
+],
+"item": "minecraft:diamond_leggings",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+104.03,
+77.94,
+101.12
+],
+"item": "minecraft:diamond_chestplate",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+102.09
+],
+"item": "minecraft:netherite_helmet",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.31,
+77.94,
+102.16
+],
+"item": "minecraft:player_head",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.74,
+78.0,
+103.85
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+78.0,
+103.88
+],
+"item": "minecraft:ender_pearl",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.11
+],
+"item": "minecraft:ender_pearl",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.86,
+77.94,
+101.12
+],
+"item": "minecraft:netherite_sword",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.78,
+77.94,
+102.12
+],
+"item": "minecraft:netherite_shovel",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+102.62
+],
+"item": "minecraft:netherite_axe",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.16,
+77.94,
+102.4
+],
+"item": "minecraft:bow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+101.12
+],
+"item": "minecraft:netherite_pickaxe",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.64,
+78.0,
+103.1
+],
+"item": "minecraft:golden_apple",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+101.59
+],
+"item": "minecraft:birch_planks",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.85,
+78.0,
+102.9
+],
+"item": "minecraft:diamond_block",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+77.94,
+101.92
+],
+"item": "minecraft:lapis_block",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+78.0,
+103.54
+],
+"item": "minecraft:birch_log",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.09
+],
+"item": "minecraft:white_stained_glass",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.28
+],
+"item": "minecraft:white_terracotta",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.22,
+77.94,
+101.74
+],
+"item": "minecraft:gold_block",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.33,
+77.94,
+101.33
+],
+"item": "minecraft:golden_carrot",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.77,
+77.94,
+102.09
+],
+"item": "minecraft:sunflower",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.16,
+77.94,
+102.53
+],
+"item": "minecraft:chorus_fruit",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+78.0,
+103.64
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.17,
+77.94,
+102.32
+],
+"item": "minecraft:tipped_arrow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.59,
+77.94,
+102.8
+],
+"item": "minecraft:arrow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.66,
+77.94,
+102.37
+],
+"item": "minecraft:tipped_arrow",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.2,
+78.0,
+103.18
+],
+"item": "minecraft:white_wool",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.12,
+78.0,
+103.88
+],
+"item": "minecraft:obsidian",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.53,
+77.94,
+102.81
+],
+"item": "minecraft:enchanted_golden_apple",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+104.08,
+77.94,
+102.35
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+},
+{
+"id": "minecraft:item",
+"pos": [
+103.88,
+77.94,
+101.86
+],
+"item": "minecraft:totem_of_undying",
+"block": null,
+"text": null,
+"tags": null,
+"invisible": null,
+"custom": null
+}
+]

@@ -1,0 +1,32 @@
+{
+"w": 1024,
+"h": 32,
+"cell": 32,
+"cols": 32,
+"tiles": {
+"block/dirt": 0,
+"block/grass_block_top": 1,
+"block/grass_block_side": 2,
+"block/grass_block_side_overlay": 3,
+"block/stone": 4,
+"block/sand": 5,
+"block/gravel": 6,
+"block/andesite": 7,
+"block/cobblestone": 8,
+"block/mossy_cobblestone": 9,
+"block/birch_log_top": 10,
+"block/birch_log": 11,
+"block/birch_leaves": 12,
+"block/oak_log_top": 13,
+"block/oak_log": 14,
+"block/oak_leaves": 15,
+"block/short_grass": 16,
+"block/cornflower": 17,
+"block/oxeye_daisy": 18,
+"block/poppy": 19,
+"block/dandelion": 20,
+"block/azure_bluet": 21,
+"block/water_still": 22,
+"block/lava_still": 23
+}
+}

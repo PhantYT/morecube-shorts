@@ -1,0 +1,1912 @@
+{
+ "npcs": [
+  {
+   "id": "cursedshop",
+   "type": "witch",
+   "pos": [
+    13.5,
+    84.0,
+    7.5
+   ],
+   "yaw": 118.3,
+   "pitch": 0.0,
+   "skin": null,
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_44ef92f1_0.png",
+     "wpx": 168,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_44ef92f1_1.png",
+     "wpx": 141,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_44ef92f1_2.png",
+     "wpx": 76,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "rw+",
+   "type": "player",
+   "pos": [
+    -8.517265444904536,
+    86.0,
+    -23.457707684982655
+   ],
+   "yaw": -91.618286,
+   "pitch": 0.4014754,
+   "skin": "skins/cf59a0da31db.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_230224a9_0.png",
+     "wpx": 83,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_230224a9_1.png",
+     "wpx": 75,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "rw+_2",
+   "type": "player",
+   "pos": [
+    35.69999998807907,
+    61.0,
+    49.51722695148326
+   ],
+   "yaw": 268.3936,
+   "pitch": -0.5390822,
+   "skin": "skins/cf59a0da31db.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_d5bbcc7c_0.png",
+     "wpx": 23,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "абу-бакар",
+   "type": "player",
+   "pos": [
+    57.69108552286798,
+    80.0,
+    6.491341597916971
+   ],
+   "yaw": -269.71466,
+   "pitch": 4.5791893,
+   "skin": "skins/ff092f1728b1.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_7bcbebe4_0.png",
+     "wpx": 73,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_7bcbebe4_1.png",
+     "wpx": 64,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "аукцион",
+   "type": "player",
+   "pos": [
+    20.518473067131072,
+    84.0,
+    -17.385362046000303
+   ],
+   "yaw": -313.50424,
+   "pitch": 1.2810308,
+   "skin": "skins/efd902ecd0b3.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_c7d80380_0.png",
+     "wpx": 50,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_c7d80380_1.png",
+     "wpx": 106,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "барыга",
+   "type": "player",
+   "pos": [
+    -15.457551980748642,
+    87.0,
+    3.3959664787958923
+   ],
+   "yaw": -111.549736,
+   "pitch": 2.3761084,
+   "skin": "skins/340d442409e4.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_29e8ecd6_0.png",
+     "wpx": 44,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "бафовар",
+   "type": "player",
+   "pos": [
+    -8.481139170960267,
+    86.0,
+    24.560606306521933
+   ],
+   "yaw": -89.46362,
+   "pitch": 1.8790827,
+   "skin": "skins/b9ca1a57f32c.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_8124c6d5_0.png",
+     "wpx": 51,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_8124c6d5_1.png",
+     "wpx": 89,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "битвасбоссом",
+   "type": "player",
+   "pos": [
+    -29.42245084400159,
+    87.0,
+    5.2698008553814075
+   ],
+   "yaw": -181.46997,
+   "pitch": 0.2578254,
+   "skin": "skins/423edd85eb5f.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_663c214d_0.png",
+     "wpx": 94,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_663c214d_1.png",
+     "wpx": 193,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_663c214d_3.png",
+     "wpx": 246,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_663c214d_4.png",
+     "wpx": 234,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_663c214d_5.png",
+     "wpx": 108,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "боевой-пропуск",
+   "type": "player",
+   "pos": [
+    -8.464194952359101,
+    86.0,
+    16.51816322434703
+   ],
+   "yaw": -90.23328,
+   "pitch": 2.710198,
+   "skin": "skins/14c40a676fa4.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_f47b258e_0.png",
+     "wpx": 96,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_f47b258e_1.png",
+     "wpx": 102,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "вседлягрифа",
+   "type": "player",
+   "pos": [
+    79.5146408623454,
+    79.0,
+    61.295112579906046
+   ],
+   "yaw": 180.03255,
+   "pitch": -0.43447787,
+   "skin": "skins/3ace461c8bc5.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_b4be1cb4_0.png",
+     "wpx": 90,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "гровгарден",
+   "type": "armor_stand",
+   "pos": [
+    44.059735970306654,
+    78.55985814822522,
+    -13.078507898808732
+   ],
+   "yaw": -180.83466,
+   "pitch": 8.053847,
+   "skin": null,
+   "slim": false,
+   "lines": []
+  },
+  {
+   "id": "джамшут",
+   "type": "player",
+   "pos": [
+    63.254344828026795,
+    80.0,
+    0.5383922824541316
+   ],
+   "yaw": -269.93613,
+   "pitch": 8.77532,
+   "skin": "skins/060342c3f951.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_e561a095_0.png",
+     "wpx": 42,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_e561a095_1.png",
+     "wpx": 52,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "защитаособняка",
+   "type": "player",
+   "pos": [
+    -29.4735881247256,
+    87.0,
+    -4.460723553897606
+   ],
+   "yaw": -356.88477,
+   "pitch": 3.0062857,
+   "skin": "skins/20938983c375.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_acdbc247_0.png",
+     "wpx": 104,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_acdbc247_1.png",
+     "wpx": 127,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_acdbc247_3.png",
+     "wpx": 216,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_acdbc247_4.png",
+     "wpx": 236,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_acdbc247_5.png",
+     "wpx": 108,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "киллер",
+   "type": "player",
+   "pos": [
+    -15.575141597748692,
+    87.0,
+    -2.618864445815142
+   ],
+   "yaw": -52.03601,
+   "pitch": 2.1874661,
+   "skin": "skins/c283bc9298d0.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_0a4439ab_0.png",
+     "wpx": 44,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "киты",
+   "type": "player",
+   "pos": [
+    57.71305720465886,
+    79.0,
+    56.487766563824316
+   ],
+   "yaw": 230.13728,
+   "pitch": -0.7418406,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_3f2c8e3a_0.png",
+     "wpx": 32,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "лесоруб",
+   "type": "player",
+   "pos": [
+    116.3446805342673,
+    79.0,
+    -29.350601601784202
+   ],
+   "yaw": -306.38824,
+   "pitch": -1.0666481,
+   "skin": "skins/0c3a8a19d801.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_c400f33c_0.png",
+     "wpx": 51,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "морраш",
+   "type": "player",
+   "pos": [
+    2.5,
+    85.0,
+    -7.5
+   ],
+   "yaw": 3.209259,
+   "pitch": -3.1499536,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_b188ca16_0.png",
+     "wpx": 123,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_b188ca16_1.png",
+     "wpx": 86,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_b188ca16_3.png",
+     "wpx": 142,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_b188ca16_5.png",
+     "wpx": 90,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "опытный-кузнец",
+   "type": "player",
+   "pos": [
+    94.22379214988862,
+    79.0,
+    46.45818825195066
+   ],
+   "yaw": -270.2512,
+   "pitch": 0.18034768,
+   "skin": "skins/dc464db0c1a2.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_e1f82895_0.png",
+     "wpx": 99,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "отшельник",
+   "type": "player",
+   "pos": [
+    -8.378906263914068,
+    84.0,
+    55.53895082716484
+   ],
+   "yaw": -89.581665,
+   "pitch": 0.3846063,
+   "skin": "skins/05ef3a43b5b5.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_de8bfb33_0.png",
+     "wpx": 64,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "путеводитель",
+   "type": "player",
+   "pos": [
+    -8.409147364092211,
+    86.0,
+    -15.475394968915166
+   ],
+   "yaw": -91.23682,
+   "pitch": -1.6963972,
+   "skin": "skins/14c00408cb57.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_f608fd11_0.png",
+     "wpx": 87,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_f608fd11_1.png",
+     "wpx": 95,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "равшан",
+   "type": "player",
+   "pos": [
+    57.588651102500144,
+    80.0,
+    -5.452726762053559
+   ],
+   "yaw": -269.71466,
+   "pitch": 4.5791893,
+   "skin": "skins/88d33dbfbd92.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_91469fc5_0.png",
+     "wpx": 52,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_91469fc5_1.png",
+     "wpx": 44,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "рынок",
+   "type": "player",
+   "pos": [
+    20.442131676756723,
+    84.0,
+    18.38858204744547
+   ],
+   "yaw": -227.02655,
+   "pitch": 3.259789,
+   "skin": "skins/7c8c656d71ee.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_71fe4ca6_0.png",
+     "wpx": 136,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_71fe4ca6_1.png",
+     "wpx": 200,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_71fe4ca6_2.png",
+     "wpx": 329,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_71fe4ca6_3.png",
+     "wpx": 249,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_71fe4ca6_5.png",
+     "wpx": 90,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_71fe4ca6_6.png",
+     "wpx": 78,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "спавнеры",
+   "type": "player",
+   "pos": [
+    89.4166647945246,
+    79.0,
+    56.37301475822706
+   ],
+   "yaw": 132.91365,
+   "pitch": -3.1131783,
+   "skin": "skins/2c8a2de19073.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_bfb6a872_0.png",
+     "wpx": 60,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "ставки10к",
+   "type": "player",
+   "pos": [
+    127.30607142879191,
+    89.0,
+    13.652865199655674
+   ],
+   "yaw": -141.90002,
+   "pitch": 1.8309026,
+   "skin": "skins/88e3fe73a160.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_24c11cc9_0.png",
+     "wpx": 105,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "ставки10м",
+   "type": "player",
+   "pos": [
+    130.44311725981947,
+    89.0,
+    -12.647338178514332
+   ],
+   "yaw": -322.52588,
+   "pitch": 3.0400739,
+   "skin": "skins/1eeb5c1cb554.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_dfe57a56_0.png",
+     "wpx": 129,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "ставки1м",
+   "type": "player",
+   "pos": [
+    122.41173985841898,
+    89.0,
+    -12.637081235591348
+   ],
+   "yaw": -322.52588,
+   "pitch": 3.0400739,
+   "skin": "skins/1eeb5c1cb554.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_7e100d78_0.png",
+     "wpx": 122,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "странник",
+   "type": "player",
+   "pos": [
+    57.5,
+    78.0,
+    -33.5
+   ],
+   "yaw": 52.495846,
+   "pitch": -0.0,
+   "skin": "skins/233b64c4d57d.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_1b33a5ab_0.png",
+     "wpx": 57,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "темныймаг",
+   "type": "player",
+   "pos": [
+    52.69539519670683,
+    79.0,
+    46.483750105931406
+   ],
+   "yaw": 269.65894,
+   "pitch": 0.26818627,
+   "skin": "skins/46d88b493ceb.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_db9a7841_0.png",
+     "wpx": 69,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "тиктокер",
+   "type": "player",
+   "pos": [
+    6.5,
+    85.0,
+    6.5
+   ],
+   "yaw": 135.3192,
+   "pitch": -1.4338597,
+   "skin": "skins/fa9ffc348bfa.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_b4210105_0.png",
+     "wpx": 139,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_b4210105_1.png",
+     "wpx": 99,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "уникальный",
+   "type": "player",
+   "pos": [
+    2.5,
+    84.0,
+    28.5
+   ],
+   "yaw": -145.63094,
+   "pitch": 2.466133,
+   "skin": "skins/46d88b493ceb.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_8f44c7ce_0.png",
+     "wpx": 124,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_8f44c7ce_1.png",
+     "wpx": 111,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "фермер",
+   "type": "player",
+   "pos": [
+    68.49082776884345,
+    78.0,
+    78.49484286562904
+   ],
+   "yaw": -156.1347,
+   "pitch": -0.4607508,
+   "skin": "skins/55fbd6cbdc75.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_8449acde_0.png",
+     "wpx": 46,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "фри",
+   "type": "player",
+   "pos": [
+    54.5,
+    78.0,
+    -23.5
+   ],
+   "yaw": 66.808136,
+   "pitch": 2.531593,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_3771e9bb_0.png",
+     "wpx": 100,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_3771e9bb_1.png",
+     "wpx": 103,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_3771e9bb_3.png",
+     "wpx": 161,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_3771e9bb_4.png",
+     "wpx": 96,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "фри2",
+   "type": "player",
+   "pos": [
+    6.5,
+    85.0,
+    -5.5
+   ],
+   "yaw": 49.716187,
+   "pitch": 0.6001352,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_092e4ad3_0.png",
+     "wpx": 122,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_092e4ad3_1.png",
+     "wpx": 86,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_092e4ad3_3.png",
+     "wpx": 176,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_092e4ad3_4.png",
+     "wpx": 167,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_092e4ad3_6.png",
+     "wpx": 87,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "фри3",
+   "type": "player",
+   "pos": [
+    58.6454932604194,
+    78.0,
+    30.46760023466943
+   ],
+   "yaw": 126.212036,
+   "pitch": -2.2682388,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_20908452_0.png",
+     "wpx": 100,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_20908452_1.png",
+     "wpx": 103,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_20908452_3.png",
+     "wpx": 161,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_20908452_4.png",
+     "wpx": 96,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "фри4",
+   "type": "player",
+   "pos": [
+    2.5,
+    85.0,
+    8.5
+   ],
+   "yaw": 181.51917,
+   "pitch": 1.8661445,
+   "skin": "skins/ed58c7b48bfa.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_4abd0212_0.png",
+     "wpx": 100,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_4abd0212_1.png",
+     "wpx": 103,
+     "hpx": 12
+    },
+    null,
+    {
+     "png": "holo/npc_4abd0212_3.png",
+     "wpx": 161,
+     "hpx": 12
+    },
+    {
+     "png": "holo/npc_4abd0212_4.png",
+     "wpx": 96,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "шары",
+   "type": "player",
+   "pos": [
+    67.42290170633268,
+    79.0,
+    61.37315815654428
+   ],
+   "yaw": 180.42776,
+   "pitch": -1.4883858,
+   "skin": "skins/9ea377c922f5.png",
+   "slim": true,
+   "lines": [
+    {
+     "png": "holo/npc_43802d01_0.png",
+     "wpx": 34,
+     "hpx": 12
+    }
+   ]
+  },
+  {
+   "id": "шахтер",
+   "type": "player",
+   "pos": [
+    23.48624719923434,
+    84.0,
+    -54.50202344557035
+   ],
+   "yaw": -270.86554,
+   "pitch": 0.5931097,
+   "skin": "skins/6db054e96026.png",
+   "slim": false,
+   "lines": [
+    {
+     "png": "holo/npc_d4b599c8_0.png",
+     "wpx": 46,
+     "hpx": 12
+    }
+   ]
+  }
+ ],
+ "holos": [
+  {
+   "id": "afk",
+   "pos": [
+    18.544,
+    87.0,
+    0.761
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_afk_0.png",
+      "wpx": 57,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_afk_1.png",
+      "wpx": 153,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_afk_2.png",
+      "wpx": 157,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_afk_3.png",
+      "wpx": 96,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_afk_4.png",
+      "wpx": 214,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "donateList_1",
+   "pos": [
+    9.577,
+    89.5,
+    0.521
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_0.png",
+      "wpx": 155,
+      "hpx": 12
+     },
+     "h": 0.6
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_1.png",
+      "wpx": 81,
+      "hpx": 12
+     },
+     "h": 0.4
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_2.png",
+      "wpx": 263,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_3.png",
+      "wpx": 271,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_4.png",
+      "wpx": 272,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_5.png",
+      "wpx": 278,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_6.png",
+      "wpx": 278,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_7.png",
+      "wpx": 284,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_8.png",
+      "wpx": 284,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_9.png",
+      "wpx": 284,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_10.png",
+      "wpx": 309,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_11.png",
+      "wpx": 293,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_12.png",
+      "wpx": 129,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_donateList_1_13.png",
+      "wpx": 171,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "growgarden",
+   "pos": [
+    44.491,
+    82.242,
+    -12.591
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_growgarden_0.png",
+      "wpx": 97,
+      "hpx": 12
+     },
+     "h": 0.9
+    },
+    {
+     "img": {
+      "png": "holo/dh_growgarden_1.png",
+      "wpx": 176,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_growgarden_2.png",
+      "wpx": 116,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_growgarden_3.png",
+      "wpx": 132,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": null,
+     "h": 0.6
+    },
+    {
+     "img": null,
+     "h": 0.6
+    },
+    {
+     "img": null,
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "ludka",
+   "pos": [
+    109.43,
+    81.0,
+    0.442
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_ludka_0.png",
+      "wpx": 122,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_ludka_1.png",
+      "wpx": 141,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "pvp",
+   "pos": [
+    -32.5,
+    89.0,
+    0.5
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_pvp_0.png",
+      "wpx": 138,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_pvp_1.png",
+      "wpx": 153,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_balance",
+   "pos": [
+    21.461,
+    88.0,
+    -27.524
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_balance_0.png",
+      "wpx": 179,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": null,
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_2.png",
+      "wpx": 174,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_3.png",
+      "wpx": 166,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_4.png",
+      "wpx": 163,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_5.png",
+      "wpx": 173,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_6.png",
+      "wpx": 159,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_7.png",
+      "wpx": 132,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_8.png",
+      "wpx": 141,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_9.png",
+      "wpx": 137,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_10.png",
+      "wpx": 163,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_balance_11.png",
+      "wpx": 155,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_bp",
+   "pos": [
+    55.498,
+    83.0,
+    -12.418
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_bp_0.png",
+      "wpx": 230,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_1.png",
+      "wpx": 122,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_2.png",
+      "wpx": 132,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_3.png",
+      "wpx": 124,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_4.png",
+      "wpx": 97,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_5.png",
+      "wpx": 106,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_6.png",
+      "wpx": 102,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_7.png",
+      "wpx": 128,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_8.png",
+      "wpx": 114,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_9.png",
+      "wpx": 108,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_bp_10.png",
+      "wpx": 153,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_clans",
+   "pos": [
+    55.598,
+    83.0,
+    13.581
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_clans_0.png",
+      "wpx": 173,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": null,
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_2.png",
+      "wpx": 105,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_3.png",
+      "wpx": 106,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_4.png",
+      "wpx": 101,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_5.png",
+      "wpx": 114,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_6.png",
+      "wpx": 112,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_7.png",
+      "wpx": 99,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_8.png",
+      "wpx": 100,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_9.png",
+      "wpx": 92,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_10.png",
+      "wpx": 93,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_clans_11.png",
+      "wpx": 99,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_duels",
+   "pos": [
+    -13.466,
+    91.0,
+    6.553
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_duels_0.png",
+      "wpx": 193,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_1.png",
+      "wpx": 135,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_2.png",
+      "wpx": 115,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_3.png",
+      "wpx": 103,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_4.png",
+      "wpx": 128,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_5.png",
+      "wpx": 121,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_6.png",
+      "wpx": 113,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_7.png",
+      "wpx": 110,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_8.png",
+      "wpx": 120,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_9.png",
+      "wpx": 112,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_duels_10.png",
+      "wpx": 85,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_kill",
+   "pos": [
+    -13.475,
+    91.0,
+    -5.405
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_kill_0.png",
+      "wpx": 168,
+      "hpx": 12
+     },
+     "h": 0.5
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_1.png",
+      "wpx": 141,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_2.png",
+      "wpx": 121,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_3.png",
+      "wpx": 109,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_4.png",
+      "wpx": 134,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_5.png",
+      "wpx": 127,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_6.png",
+      "wpx": 119,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_7.png",
+      "wpx": 110,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_8.png",
+      "wpx": 120,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_9.png",
+      "wpx": 112,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_kill_10.png",
+      "wpx": 91,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "top_online",
+   "pos": [
+    21.422,
+    88.0,
+    28.468
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_top_online_0.png",
+      "wpx": 174,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": null,
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_2.png",
+      "wpx": 114,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_3.png",
+      "wpx": 108,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_4.png",
+      "wpx": 147,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_5.png",
+      "wpx": 127,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_6.png",
+      "wpx": 115,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_7.png",
+      "wpx": 140,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_8.png",
+      "wpx": 133,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_9.png",
+      "wpx": 125,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_10.png",
+      "wpx": 122,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_top_online_11.png",
+      "wpx": 138,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "tp_end",
+   "pos": [
+    50.671,
+    80.494,
+    -35.671
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_tp_end_0.png",
+      "wpx": 280,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "tp_world",
+   "pos": [
+    65.211,
+    80.164,
+    -33.559
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_tp_world_0.png",
+      "wpx": 174,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_tp_world_1.png",
+      "wpx": 50,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  },
+  {
+   "id": "voice",
+   "pos": [
+    3.945,
+    86.122,
+    -24.751
+   ],
+   "lines": [
+    {
+     "img": {
+      "png": "holo/dh_voice_0.png",
+      "wpx": 61,
+      "hpx": 12
+     },
+     "h": 0.6
+    },
+    {
+     "img": {
+      "png": "holo/dh_voice_1.png",
+      "wpx": 194,
+      "hpx": 12
+     },
+     "h": 0.3
+    },
+    {
+     "img": {
+      "png": "holo/dh_voice_2.png",
+      "wpx": 167,
+      "hpx": 12
+     },
+     "h": 0.3
+    }
+   ]
+  }
+ ],
+ "line_spacing": 0.3
+}
